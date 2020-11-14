@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MediaPlayerApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_start">Start</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_stop">Stop</string>
+    <string name="action_loop">loop</string>
+    <string name="btn_last">上一曲</string>
+    <string name="btn_star">开始/暂停</string>
+    <string name="btn_stop">暂停</string>
+    <string name="btn_next">下一曲</string>
+</resources>
